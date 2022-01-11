@@ -11,11 +11,11 @@
 
   <p><a href="{% url 'apps:topic' topic.id %}">{{  topic  }}</a></p>
 
-  <p>Add a new entry:</p>
-  <form action="{% url 'apps:new_entry' topic.id %}" method='post'>
+  <p>Edit entry:</p>
+  <form action="{% url 'apps:edit_entry' entry.id %}" method='post'>
       {% csrf_token %}
       {{ form.as_p }}
-      <button name="submit">add entry</button>
+      <button name="submit">save changes</button>
   </form>
 
 {% endblock content %}
