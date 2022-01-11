@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de521d4d-8b9e-4576-ad64-b1de614d8c98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apps/templates/apps/edit_entry.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/templates/apps/new_entry.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/apps/new_entry.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/templates/apps/topic.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/apps/topic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641719441146</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20220109 add new_entries">
+      <created>1641902535135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641902535135</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -66,10 +67,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="20220109 add new_entries" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1000" y="132" key="CommitChangelistDialog2" timestamp="1641719440129">
+    <state x="1000" y="132" key="CommitChangelistDialog2" timestamp="1641902534151">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1000" y="132" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1641719440129" />
+    <state x="1000" y="132" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1641902534151" />
     <state x="1141" y="293" key="FileChooserDialogImpl" timestamp="1641347155875">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
