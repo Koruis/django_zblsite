@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # zbl apps
     'apps',
+    'users',
 ]
 
 MIDDLEWARE = [
