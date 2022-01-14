@@ -22,3 +22,5 @@ urlpatterns = [
     path('', include(('apps.urls', 'apps'), namespace='apps')),
     path('users/', include(('users.urls', 'users'), namespace='users')),
 ]
+
+from functools import wraps
